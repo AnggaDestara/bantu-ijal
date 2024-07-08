@@ -1,0 +1,2 @@
+# bantu-ijal
+ biodata odoo
